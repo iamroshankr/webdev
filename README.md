@@ -1,2 +1,2 @@
 # learning-webdev
-practicing coding here
+practicing coding here by making some very small projects
